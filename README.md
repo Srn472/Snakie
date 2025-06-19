@@ -1,6 +1,4 @@
-I'm sorry, but I couldn't access the GitHub page you provided. However, I can still help you create a README file for your project. Below is a template you can use and modify according to your project's details:
 
-```markdown
 # Snake Game (Snakie)
 
 A classic timeless game where players control a growing snake, guiding it to eat "food" (planets) while avoiding collisions with walls and obstacles. With each bite, the snake grows longer, which also makes the navigation increasingly tricky.
